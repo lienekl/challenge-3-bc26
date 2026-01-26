@@ -1,0 +1,15 @@
+/* Root Styles */
+:root {
+    --main-bg-color: #e6e6e8;
+    --primary-color: #111a70;
+    --accent-color: #eb2b2b;
+    --primary-font-family: "DM Sans", sans-serif;
+}
+
+/* General Styles */
+body {
+    font-family: "DM Sans", sans-serif;
+    background-color: var(--main-bg-color);
+    margin: auto;
+
+}
