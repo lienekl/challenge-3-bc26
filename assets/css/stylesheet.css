@@ -40,6 +40,59 @@ h1 {
 .hero {
     width: 100%;
 }
+.border-form {
+    border:#eb2b2b solid 2px;
+    border-radius: 10px;;
+    background-color: #eb2b2b;
+    color: var(--main-bg-color);
+}
+.btn {
+    background-color: #111a70;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    border-radius: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.footer {
+    background-color: var(--primary-color);
+}
+.logo-dark {
+    width: 250px;
+}
 
-
-
+h4 {
+    color: var(--accent-color);
+}
+.footer {
+    color: #e6e6e8;
+}
+.footer a {
+    color: #e6e6e8;
+    text-decoration: underline;
+}
+.service-image {
+    max-width: 300px;;
+}
+.button-div {
+    display: flex;
+    margin: auto;
+    padding-bottom: 20px;
+}
+.button {
+    border: none;
+    border-radius: 40px;
+    background-color: var(--accent-color);
+    color: #ffffff;
+    font-weight: bold;
+    padding: 10px 40px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+#tabs {
+    width: 100%;
+}
