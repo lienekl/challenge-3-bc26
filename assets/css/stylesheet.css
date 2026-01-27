@@ -19,3 +19,27 @@ body {
     color: #eb2b2b;
     font-family: var(--primary-font-family);
 }
+
+.logo {
+    width: 250px;
+}
+
+
+h1 {
+    color: var(--primary-color);
+    text-align: center;
+    font-family: var(--primary-font-family);
+    font-size: 40px;
+}
+
+.carousel-caption {
+    color: var(--accent-color);
+    font-size: 40px;
+}
+
+.hero {
+    width: 100%;
+}
+
+
+
