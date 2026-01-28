@@ -7,10 +7,15 @@ A multi-page website originally built for Week 2 - for a business offering gas e
 ## Key features:
 
 Replaced custom HTML and CSS components with Bootstrap components and utilities.
+
 Added all required Bootstrap CSS links to ensure proper styling.
+
 Integrated a jQuery widget (Tabs) for enhanced interactivity.
+
 Included all necessary <script> tags to ensure correct functionality of interactive elements.
+
 Created and applied a local custom stylesheet to maintain brand colors and fonts.
+
 Ensured stylesheets were loaded in the correct order to preserve both functionality and visual design.
 
 ## Links
