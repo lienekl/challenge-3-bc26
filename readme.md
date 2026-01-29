@@ -20,4 +20,5 @@ Ensured stylesheets were loaded in the correct order to preserve both functional
 
 ## Links
 [GitHub Repository] (https://lienekl.github.io/challenge-3-bc26/)
+
 [Live Website (GitHub Pages)] (https://lienekl.github.io/challenge-3-bc26/)
